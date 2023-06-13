@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Rocher';
+    src: url(https://assets.codepen.io/9632/RocherColorGX.woff2);
+  }
+  
+
+  
+  h1 {
+    font-family: 'Rocher';
+    margin: 0;
+    border-style: dashed;
+    background-color: gray;
+  }
+  button{
+    float: right;
+  }
+  p{
+    font-family: 'Rocher';
+    color: aqua;
+    font-size: 23;
+    font-weight: bold;
+  }
+  #sketch_to_draw{
+    font-family: 'Courier New', Courier, monospace;
+    border-style: ridge;
+    background-color: yellow;
+
+  }
+  #score{
+    margin-right: 1000px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    border-style: dashed;
+    background-color: cyan;
+    
+  }
+  
+  #time{
+    margin-left: 100px;
+    float:right;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    border-style: dashed;
+    background-color: cyan;
+    
+  }
